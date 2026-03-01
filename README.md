@@ -1,6 +1,6 @@
 # Yousef Mohammed
 
-Flutter Engineer building scalable, production-ready applications.
+Flutter Developer building scalable, production-ready applications.
 
 ---
 
@@ -8,8 +8,7 @@ Flutter Engineer building scalable, production-ready applications.
 
 I build real-world Flutter applications with a strong focus on clean architecture, business logic, and scalability.
 
-My core expertise includes:
-
+**My core expertise includes:**
 - Clean Architecture
 - Bloc State Management
 - Firebase (Authentication, Firestore, Security Rules)
@@ -30,7 +29,6 @@ I focus on writing maintainable, production-level code — not just UI.
 A production-style Flutter application designed for shops to purchase digital cards using balance-based accounts.
 
 **Key Highlights:**
-
 - Role-based access (Supplier / Shop)
 - Firestore as a Single Source of Truth
 - Safe transactional purchase logic
@@ -39,8 +37,7 @@ A production-style Flutter application designed for shops to purchase digital ca
 - Manual transaction syncing
 - Fully structured Clean Architecture
 
-Tech Stack:
-Flutter • Bloc • Firebase • Firestore • SQLite • Clean Architecture
+**Tech Stack:** Flutter • Bloc • Firebase • Firestore • SQLite • Clean Architecture
 
 ---
 

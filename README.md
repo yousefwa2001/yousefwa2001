@@ -59,7 +59,7 @@ An internal HR workflow system focused on reliability, history tracking, and API
 **Key features**
 - Attendance (check-in/out) with timestamps and history logs.
 - Multi-step leave requests with validations and approval-ready structure.
-- JWT authentication + SecureStorage + API workflow using Dio.
+- SecureStorage + API workflow using Dio.
 - Clean Architecture + Bloc + AutoRoute for maintainable feature scaling.
 
 ---

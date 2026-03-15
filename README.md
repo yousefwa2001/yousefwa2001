@@ -32,6 +32,7 @@ A production-ready marketplace system for **shop accounts** to purchase digital 
 - Role-based access (Supplier / Shop) with Firestore security rules mindset.
 - Real-time balance streaming and purchase updates.
 - Modular Clean Architecture with feature separation (Add / Buy / Values / Categories).
+- 
 **Google Play:** https://play.google.com/store/apps/details?id=com.basecards.app
   
 **Repository:** https://github.com/yousefwa2001/base-cards
